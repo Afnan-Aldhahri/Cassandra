@@ -18,15 +18,12 @@ If you are new to **Cassandra** , this presentation will give you an overview pi
 
 3-[Why Cassandra ? ]() 
 
-
 4-[Cassandra Architecture]() 
 
    * High-Level Constructs 
 
-5-[Who's using Cassandra ??]() 
+5-[Who's using Cassandra ?]() 
 
+6- [How Cassandra related to our class : Software Engineering]()
 
-9- [How Cassandra related to our class : Software Engineering]()
-
-
-10-[References]()
+7-[References]()
