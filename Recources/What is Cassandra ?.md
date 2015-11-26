@@ -3,9 +3,9 @@
 
 As [planetcassandra.org](http://www.planetcassandra.org/what-is-apache-cassandra/) defines Cassandra : "
 
-**Apache Cassandra** is a distributed database for managing large amounts of structured data across many commodity servers, 
+**Apache Cassandra** is a distributed database for managing large amounts of structured data across
 
-while providing highly available service and no single point of failure. 
+many commodity servers,  while providing highly available service and no single point of failure. 
 
 Cassandra offers capabilities that relational databases and other NoSQL databases simply cannot match such as:
 
