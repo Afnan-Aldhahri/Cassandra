@@ -7,7 +7,7 @@ Apache Cassandra was started by *Avinash Lakshman* at **Facebook** to enhance th
 
 It was named after the Greek mythological prophet Cassandra.
 
-According to [wikipedia.org](https://en.wikipedia.org/wiki/Apache_Cassandra#History) ,
+According to [wikipedia.org](https://en.wikipedia.org/wiki/Apache_Cassandra#History) :
 
 Cassandra was released as an open source project on Google code in July 2008.
 
