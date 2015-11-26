@@ -3,12 +3,11 @@
 
 When I was searching to find which companies are using Cassandra , 
 
-I got suprised by The **huge number** of Cassandra fans (the orgnizations that use Cassandra right now). 
+I got suprised by the **huge number** of Cassandra fans (the orgnizations that use Cassandra right now). 
 
-I found a picture from [Introduction to NoSQL & Apache Cassandra  ](http://www.slideshare.net/ChetanBaheti/introduction-to-nosql-apache-cassandra)by Chetan Baheti
+I found a picture from *Introduction to NoSQL & Apache Cassandra* by *Chetan Baheti*
 
 that show most of these orgnizations but not all of them .
-
 
 
 ![Who's using Cassandra](https://cloud.githubusercontent.com/assets/14142983/11412762/d2429894-939d-11e5-9301-4a4c558f3e71.jpg "This picture from Introduction to NoSQL & Apache Cassandra  by chetan.baheti")
