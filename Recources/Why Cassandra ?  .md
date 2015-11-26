@@ -20,6 +20,7 @@
 6- **Written in Java , so providing native Java support**
 
 7- **Fault-tolerant with no single point of failure**
+
   Multi-data center and rack-aware data replication
   Failed nodes can be replaced automatically.
 
@@ -31,9 +32,10 @@
 
 11- **MapReduce support**
 
-  Cassandra has support for : Apache Pig ,Apache Hive , and MapReduce support. 
+   Cassandra has support for : Apache Pig ,Apache Hive , and MapReduce support. 
 
 12- **Query language**
+
   Cassandra has CQL (Cassandra Query Language), a SQL-like substitutional to RPC interface. 
 
 13- **Cloud enabled**
