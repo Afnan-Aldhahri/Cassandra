@@ -3,7 +3,7 @@
 
 When I was searching to find which companies are using Cassandra , 
 
-I got suprised by the **huge number** of Cassandra fans (the orgnizations that use Cassandra right now). 
+I got amazed by the **huge number** of Cassandra fans (the orgnizations that use Cassandra right now). 
 
 I found a picture from *Introduction to NoSQL & Apache Cassandra* by *Chetan Baheti*
 
