@@ -9,15 +9,18 @@ As [datastax.com](http://www.datastax.com/dev/blog/what-cassandra-good) indicate
 
 * reliable cross-datacenter replication
 
+To explain these points above :
 
 Cassandra shines at online transactions(real time transactions) that have to be executed in a short time(millisecond) .
 
 The data can be served very quickly to the user using Cassandra’s multiple caching levels , log-structured storage design, and commit log. 
 
-Morover,Cassandra is great when data loss is unacceptable.
-
 In addition , using MapReduce, Cassandra does very good in the  area of data management .
 
 Now, what is MapReduce?
 
-MapReduce is apopular algorithm by Google that allows for analytical queries to be executed on large data sets among large numbers of servers in parallel
+MapReduce is apopular algorithm by Google that allows for analytical queries to be executed on large data sets among large numbers of servers in parallel.
+
+Finally,Cassandra is great when data loss is unacceptable.
+
+So, the question should be what is Caassandra NOT good for ? 
