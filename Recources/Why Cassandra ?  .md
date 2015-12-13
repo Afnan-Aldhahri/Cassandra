@@ -1,11 +1,11 @@
 
 ## Why Cassandra ? 
 
-It's not surprising that *Cassandra* has a lot of fans. 
+It's not surprising that *Cassandra* has a lot of [fans](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Who's%20using%20Cassandra%20%3F.md). 
 
 *Cassandra* has many many features .
 
-C.Y. Kan discussed a lot of them in his book Cassandra Data Modeling and Analysis ,and I summrize them to be : 
+C.Y. Kan discussed a lot of them in his [book](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/References.md) Cassandra Data Modeling and Analysis ,and I summrize them to be : 
 
 1- **High Performance**
 
