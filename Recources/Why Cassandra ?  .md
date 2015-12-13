@@ -1,6 +1,12 @@
 
 ## Why Cassandra ? 
 
+It's not surprising that *Cassandra* has a lot of fans. 
+
+*Cassandra* has many many features .
+
+C.Y. Kan discussed a lot of them in his book Cassandra Data Modeling and Analysis ,and I summrize them to be : 
+
 1- **High Performance**
 
 1- **Decentralized**
