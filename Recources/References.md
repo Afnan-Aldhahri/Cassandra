@@ -8,6 +8,5 @@
 
 3- [Cassandra Data Modeling and Analysis](https://www.safaribooksonline.com/library/view/cassandra-data-modeling/9781783988884/)  book by *C.Y. Kan*.
 
-4- [] ()
+4- [datastax.com] (http://docs.datastax.com/en/landing_page/doc/landing_page/current.html)
 
-5- [] ()
