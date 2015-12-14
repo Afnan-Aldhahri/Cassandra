@@ -14,3 +14,5 @@ continuous availability, linear scale performance, operational simplicity and ea
 across multiple data centers and cloud availability zones."
 
 ![Cassandra logo](https://cloud.githubusercontent.com/assets/14142983/11412199/e1c82d58-9396-11e5-8125-b68ac0d7ee8b.png "This picture from planetcassandra.org")
+
+[Home] (https://github.com/Afnan-Aldhahri/Cassandra/blob/master/README.md)
