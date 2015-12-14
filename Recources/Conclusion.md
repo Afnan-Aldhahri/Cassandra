@@ -1,7 +1,7 @@
 
 ## Conclusion
 
-Cassandra is created as a distributed database management system.
+**Cassandra** is created as a distributed database management system.
 
 use it when you have larg amount of data that are distributed among multiple servers.
 
@@ -28,3 +28,6 @@ Cassandra has many many features .For example :
 and many more .
 
 See [Why Cassandra ? ](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Why%20Cassandra%20%3F%20%20.md) for mor details about Cassandra features.
+
+
+[HOME] (https://github.com/Afnan-Aldhahri/Cassandra/blob/master/README.md)
