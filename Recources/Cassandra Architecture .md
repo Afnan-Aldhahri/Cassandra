@@ -97,30 +97,32 @@ Replication strategy has to be greater than one.However, it should be less than 
 
 **Replica placement strategy**
 
-Cassandra stores copies (replicas) of data on multiple nodes to ensure reliability and fault tolerance. A replication strategy determines which nodes to place replicas on. The first replica of data is simply the first copy; it is not unique in any sense. The NetworkTopologyStrategy is highly recommended for most deployments because it is much easier to expand to multiple data centers when required by future expansion.
+To guarantee reliability , Cassandra stores copies of data on multiple nodes .
 
-When creating a keyspace, you must define the replica placement strategy and the number of replicas you want.
+These copies called (replicas) .
+
+A replication strategy specify which nodes to set replicas on.
+
+The first replica of data,which is not  unique, is the first copy.
+
+The replica placement strategy and the number of replicas  must be declared when creating a keyspace.
 
 **Snitch**
 
-A snitch defines groups of machines into data centers and racks (the topology) that the replication strategy uses to place replicas.
+A snitch defines groups of machines into data centers and racks .
 
-You must configure a snitch when you create a cluster. All snitches use a dynamic snitch layer, which monitors performance and chooses the best replica for reading. It is enabled by default and recommended for use in most deployments. Configure dynamic snitch thresholds for each node in the cassandra.yaml configuration file.
+All snitches use a dynamic snitch layer.
 
-The default SimpleSnitch does not recognize data center or rack information. Use it for single-data center deployments or single-zone in public clouds. The GossipingPropertyFileSnitch is recommended for production. It defines a node's data center and rack and uses gossip for propagating this information to other nodes.
+The role of the snitch layer is to  monitors performance and chooses the best replica for reading.
 
 **The cassandra.yaml configuration file**
 
-The main configuration file for setting the initialization properties for a cluster, caching parameters for tables, properties for tuning and resource utilization, timeout settings, client connections, backups, and security.
+A node is configured to store its data in a directory set in the cassandra.yaml file.
 
-By default, a node is configured to store the data it manages in a directory set in the cassandra.yaml file.
 Packaged installs: /var/lib/cassandra
+
 Tarball installs: install_location/data/data
-In a production cluster deployment, you can change the commitlog-directory to a different disk drive from the data_file_directories.
 
-**System keyspace table properties**
-
-You set storage configuration attributes on a per-keyspace or per-table basis programmatically or using a client application, such as CQL.
 
 
 
