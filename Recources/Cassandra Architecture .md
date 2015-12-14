@@ -124,5 +124,7 @@ Packaged installs: /var/lib/cassandra
 Tarball installs: install_location/data/data
 
 
+*Note :*
 
+I paraphrased and summarized (Cassandra Architecture) from [datastax.com] (http://docs.datastax.com/en/landing_page/doc/landing_page/current.html) .
 
