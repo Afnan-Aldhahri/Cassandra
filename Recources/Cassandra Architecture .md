@@ -77,16 +77,23 @@ Cassandra writes memtables periodically.
 
 **Gossip**
 
-A peer-to-peer communication protocol to discover and share location and state information about the other nodes in a Cassandra cluster. Gossip information is also persisted locally by each node to use immediately when a node restarts.
+A peer-to-peer communication protocol to share location and declare information about the other nodes in the cluster. 
 
 **Partitioner**
-A partitioner determines how to distribute the data across the nodes in the cluster and which node to place the first copy of data on. Basically, a partitioner is a hash function for computing the token of a partition key. Each row of data is uniquely identified by a partition key and distributed across the cluster by the value of the token. The Murmur3Partitioner is the default partitioning strategy for new Cassandra clusters and the right choice for new clusters in almost all cases.
 
-You must set the partitioner and assign the node a num_tokens value for each node. The number of tokens you assign depends on the hardware capabilities of the system. If not using virtual nodes (vnodes), use the initial_token setting instead.
+A hash function that specify how to distribute the data among the nodes in the cluster .
+
+,and its calculating the token of a partition key. 
+
+The partition key is unique for each row of data and distributed across the cluster by the value of the token. 
 
 **Replication factor**
 
-The total number of replicas across the cluster. A replication factor of 1 means that there is only one copy of each row on one node. A replication factor of 2 means two copies of each row, where each copy is on a different node. All replicas are equally important; there is no primary or master replica. You define the replication factor for each data center. Generally you should set the replication strategy greater than one, but no more than the number of nodes in the cluster.
+The total number of replicas across the cluster. 
+
+There is no primary replica. All replicas are equally important.
+ 
+Replication strategy has to be greater than one.However, it should be less than the number of nodes in the cluster.
 
 **Replica placement strategy**
 
