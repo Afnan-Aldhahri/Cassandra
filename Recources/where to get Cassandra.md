@@ -1,5 +1,5 @@
 
-## where to get Cassandra
+## where can you get Cassandra?
 
 
 If you are interested in trying Apache Cassandra , Planet Cassandra provides a quick start to try it . 
