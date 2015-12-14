@@ -17,16 +17,6 @@ If you are new to **Cassandra** , this presentation will give you an overview pi
 2-[The History of Cassandra](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/The%20History%20of%20Cassandra%20.md)
 
 3-[Why Cassandra ? ](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Why%20Cassandra%20%3F%20%20.md) 
-                 
-  * High Performance
-
-  * Support for structured and unstructured data
-
-  * Tunable consistency
-
-  * Massively, and linearly scalable
-  
-  * and more ..
 
 4- [What is Cassandra great for ?](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/What%20is%20Cassandra%20great%20for%20%3F.md)
 
@@ -38,14 +28,12 @@ If you are new to **Cassandra** , this presentation will give you an overview pi
 
 5-[Who's using Cassandra ?](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Who's%20using%20Cassandra%20%3F.md) 
   
-  * Cassandra fans
-
 6-[Cassandra Architecture](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Cassandra%20Architecture%20.md) 
 
-  * Key structures
+  7. Key structures
   
-  * Key components for configuring Cassandra
+  8. Key components for configuring Cassandra
 
-7-[Conclusion](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Conclusion.md)
+9-[Conclusion](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Conclusion.md)
 
-8-[References](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/References.md)
+10-[References](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/References.md)
