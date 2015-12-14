@@ -30,10 +30,10 @@ If you are new to **Cassandra** , this presentation will give you an overview pi
   
 6-[Cassandra Architecture](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Cassandra%20Architecture%20.md) 
 
-  7. Key structures
+  * Key structures
   
-  8. Key components for configuring Cassandra
+  * Key components for configuring Cassandra
 
-9-[Conclusion](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Conclusion.md)
+7-[Conclusion](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Conclusion.md)
 
-10-[References](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/References.md)
+8-[References](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/References.md)
