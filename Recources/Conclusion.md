@@ -30,4 +30,4 @@ and many more .
 See [Why Cassandra ? ](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Why%20Cassandra%20%3F%20%20.md) for mor details about Cassandra features.
 
 
-[HOME] (https://github.com/Afnan-Aldhahri/Cassandra/blob/master/README.md)
+[Home] (https://github.com/Afnan-Aldhahri/Cassandra/blob/master/README.md)
