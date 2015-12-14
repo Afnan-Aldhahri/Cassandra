@@ -1,6 +1,6 @@
 # Cassandra
 
-If you are new to **Cassandra** , this presentation will give you an overview picture of **Cassandra** and how its related to software Engineering .
+If you are new to **Cassandra** , this presentation will give you an overview picture of **Cassandra** .
 
 
 [About this presentation](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/about%20this%20presentation.md) 
