@@ -24,3 +24,6 @@ MapReduce is apopular algorithm by Google that allows for analytical queries to 
 Finally,Cassandra is great when data loss is unacceptable.
 
 So, the question should be what is Caassandra NOT good for ? 
+
+
+[Home] (https://github.com/Afnan-Aldhahri/Cassandra/blob/master/README.md)
