@@ -128,3 +128,4 @@ Tarball installs: install_location/data/data
 
 I paraphrased and summarized (Cassandra Architecture) from [datastax.com] (http://docs.datastax.com/en/landing_page/doc/landing_page/current.html) .
 
+[Home] (https://github.com/Afnan-Aldhahri/Cassandra/blob/master/README.md)
