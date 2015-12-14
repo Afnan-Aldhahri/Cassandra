@@ -13,5 +13,18 @@ There are many big companies use Cassandra such as Netflex,CISCO,adobe,twitter a
 
 See [Who's using Cassandra ?](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Who's%20using%20Cassandra%20%3F.md) 
 
+After I did this presentation , I understood why Cassandra has a lot of fans.
 
+Cassandra has many many features .For example :
 
+* High Performance
+
+* Support for structured and unstructured data
+
+* Tunable consistency
+
+* Massively, and linearly scalable
+
+and many more .
+
+See [Why Cassandra ? ](https://github.com/Afnan-Aldhahri/Cassandra/blob/master/Recources/Why%20Cassandra%20%3F%20%20.md) for mor details about Cassandra features.
